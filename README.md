@@ -3,6 +3,7 @@ This repository represents the research work conducted to analyze the principles
 
 # Repository Structure
 The Repository contains 3 folders:
+---
 ->The Project report which is an overall summary report of the research which we conducted in this project. We recommend a reading of this report before looking at the content in the folders
 ---
 ->part1 - Presentation & Code (Proofs) for Simple Imperative Programs using Principles of IMP.
