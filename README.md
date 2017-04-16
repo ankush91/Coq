@@ -3,7 +3,7 @@ This repository contains the research work with respect to the core principles o
 --
 
 # Repository Structure
-The Repository contains 3 folders:
+The Repository contains the following:
 --
 ->The Project report which is an overall summary report of the research which we conducted in this project. We recommend a reading of this report before looking at the content in the folders
 --
