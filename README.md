@@ -1,5 +1,5 @@
 # Analysis-of-the-Coq-Proof-Management-System
-This repository represents the research work conducted to analyze the principles of the Coq Proof Management System as part of project work (team of 2) for CS 550 (Programming Languages and Theory)
+This repository contains the research work with respect to the core principles of the Coq Proof Management System as part of project work (team of 2) for CS 550 (Programming Languages and Theory) at Drexel Univeristy 2016.
 --
 
 # Repository Structure
@@ -14,6 +14,6 @@ The Repository contains 3 folders:
 ->part3 - Presentation for Simply Typed Lambda Calculus and demonstrations of its Principles using proofs in Coq (Code).
 --
 # Dependencies
-To run the code we recommend to download the Coq IDE available from https://coq.inria.fr/
+To run the code we recommend to download the Coq IDE available from the website, https://coq.inria.fr/
 --
 
