@@ -4,11 +4,11 @@ This repository contains the research work with respect to the core principles o
 
 # Repository Structure
 
-The Repository contains the following:
-->The Project report which is an overall summary report of the research we conducted in this project. We recommend a reading of this report before looking at content in other folders
-->part1 - Presentation & Code (Proofs) for Simple Imperative Programs using Principles of IMP.
-->part2 - Presentation & code (Proofs) for Small Step Operational Semantics and its importance towards Parallel Computation.
-->part3 - Presentation for Simply Typed Lambda Calculus and demonstrations of its Principles using proofs in Coq (Code).
+The Repository contains the following: </br>
+The Project report which is an overall summary report of the research we conducted in this project. We recommend a reading of this report before looking at content in other folders
+part1 - Presentation & Code (Proofs) for Simple Imperative Programs using Principles of IMP.
+part2 - Presentation & code (Proofs) for Small Step Operational Semantics and its importance towards Parallel Computation.
+part3 - Presentation for Simply Typed Lambda Calculus and demonstrations of its Principles using proofs in Coq (Code).
 
 # Dependencies
 
