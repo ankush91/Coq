@@ -1,4 +1,4 @@
-# Analysis-of-the-Coq-Proof-Management-System
+# Analysis of the Coq Proof Management System
 
 This repository contains the research work with respect to the core principles of the Coq Proof Management System as part of project work (team of 3) for CS 550 (Programming Languages and Theory) at Drexel Univeristy 2016. </br>
 
